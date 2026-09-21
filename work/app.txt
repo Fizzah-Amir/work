@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello this is a hoolou man
+=======
+hello this is a going not fnun 
+>>>>>>> feature-update
